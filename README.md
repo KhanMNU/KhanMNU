@@ -4,7 +4,7 @@ Humanitarian data and evidence specialist with 15+ years of experience across Af
 
 **Focus:** Food security analysis · Monitoring & evaluation · Data & GIS · Strategy
 
-**Applied AI:** Trainer of Trainers on Artificial Intelligence; responsible, practical use of AI for analysis, coding and reporting.
+**AI:** Enthusiastic user of AI for analysis, coding and reporting, with responsible use at the centre.
 
 **Tools:** R · Stata · Python · Power BI · QGIS · ArcGIS · KoBoToolbox
 
