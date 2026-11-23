@@ -2,7 +2,7 @@
 
 Humanitarian data and evidence specialist with 15+ years of experience across Africa and Asia.
 
-**Focus:** Food security analysis · Monitoring & evaluation · Data & GIS · Strategy
+**Focus:** Needs & vulnerability analysis · Monitoring & evaluation · Data & GIS · Strategy
 
 **AI:** Enthusiastic user of AI for analysis, coding and reporting, with responsible use at the centre.
 
